@@ -67,10 +67,10 @@
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.2.tgz#ee771e2ba4b3dc5b372935d549fd9617bf345b8c"
   integrity sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==
 
-"@types/node@14.17.20":
-  version "14.17.20"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.17.20.tgz#74cc80438fd0467dc4377ee5bbad89a886df3c10"
-  integrity sha512-gI5Sl30tmhXsqkNvopFydP7ASc4c2cLfGNQrVKN3X90ADFWFsPEsotm/8JHSUJQKTHbwowAHtcJPeyVhtKv0TQ==
+"@types/node@14.18.6":
+  version "14.18.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.18.6.tgz#0ced8ba5ed72367e3f425bfd4731de26afef7849"
+  integrity sha512-lrCEyAVs0sJ+uq5uPn2j1NkAHryhBA8Q1fP2hC2zRiOPyJBMB53ZsdmNX3yPo/sj29EH/3452h1DsIoPTiGELg==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
